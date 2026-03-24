@@ -19,33 +19,43 @@
 
 ## 👨‍💻 About Me
 
-I am a 3rd-term Information Systems student transitioning from writing basic scripts to designing scalable, production-ready software. I focus on understanding the *why* behind the code, prioritizing solid foundations over fleeting frameworks.
+I am a 3rd-term Information Systems student at UEMG (Universidade do Estado de Minas Gerais). I am passionate about building production-ready systems that solve real problems. I focus on understanding the why behind the code, prioritizing solid foundations over fleeting frameworks.
 
-- 🏗️ **Currently focusing on:** System Design, Microservices, and Clean Architecture.
-- ⚙️ **Building:** Robust backend systems, API integrations, and containerized environments.
-- 📚 **Constantly studying:** Advanced Networking (TCP/IP), Design Patterns (DTO, SOLID), and DevOps practices.
-- 🎮 **Fun fact:** Before writing code, I was a professional gamer. I bring that same competitive drive and resilience to debugging complex infrastructure issues.
+- ▹ **Currently focusing on:** System Design, Microservices, and Clean Architecture.
+- ▹ **Building:** Robust backend systems, API integrations, and containerized environments.
+- ▹ **Constantly studying:** Design Patterns, DevOps practices, language-agnostic programming, and data fundamentals.
 
 ---
 
 ## 🛠️ Tech Stack & Skills
 
-### 💻 Backend & Architecture
-- Modern PHP (Strict Types) | Node.js
-- RESTful APIs | Webhooks | WebSockets
-- Object-Oriented Programming (OOP) | SOLID Principles
-- Design Patterns | Data Transfer Objects (DTO)
+### 💻 Backend & Languages
+<p>
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
+  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+</p>
 
 ### 🐳 Infrastructure & DevOps
-- Docker & Containerization
-- Linux Server Administration
-- Networking & Port Forwarding
-- API Gateways & Load Balancing Concepts
+<p>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
+  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="Ubuntu" />
+</p>
 
-### 🗄️ Data & Tooling
-- Relational Databases (SQL) | ORMs
-- Git & GitHub (Version Control)
-- Markdown & Obsidian (Technical Documentation)
+### 🗄️ Database & Data Analysis
+<p>
+  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+</p>
+
+### ⚙️ Architecture & Methodologies
+<p>
+  <img src="https://img.shields.io/badge/Microservices-FF4081?style=for-the-badge&logo=cachet&logoColor=white" alt="Microservices" />
+  <img src="https://img.shields.io/badge/REST_API-005571?style=for-the-badge&logo=postman&logoColor=white" alt="REST API" />
+  <img src="https://img.shields.io/badge/Clean_Code-222222?style=for-the-badge&logo=sonarqube&logoColor=white" alt="Clean Code" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+</p>
 
 ---
 
