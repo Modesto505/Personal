@@ -29,6 +29,10 @@ I am a 3rd-term Information Systems student at UEMG (Universidade do Estado de M
 
 ## 🛠️ Tech Stack & Skills
 
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1500&color=005C84&vCenter=true&center=true&width=800&lines=%E2%9A%99%EF%B8%8F+Architecting+scalable+backend+systems.;%F0%9F%90%B3+Containerizing+applications+with+Docker.;%F0%9F%94%8C+Building+robust+API+integrations.;%F0%9F%93%8A+Translating+data+into+business+value." alt="Typing SVG" />
+</div>
+
 ### 💻Languages And Frameworks
 <p>
   <img src="https://img.shields.io/badge/PHP-777BB4?style=Plastic&logo=php&logoColor=white" alt="PHP" />
