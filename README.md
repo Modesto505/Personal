@@ -32,6 +32,7 @@ I am a 3rd-term Information Systems student at UEMG (Universidade do Estado de M
 ### 💻Languages And Frameworks
 <p>
   <img src="https://img.shields.io/badge/PHP-777BB4?style=Plastic&logo=php&logoColor=white" alt="PHP" />
+  <img src="https://img.shields.io/badge/python-777BB4?style=Plastic&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/Node.js-43853D?style=Plastic&logo=node.js&logoColor=white" alt="Node.js" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=Plastic&logo=javascript&logoColor=black" alt="JavaScript" />
   <img src="https://img.shields.io/badge/C-00599C?style=Plastic&logo=c&logoColor=white" alt="C" />
